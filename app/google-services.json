@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "85901306153",
+    "firebase_url": "https://fcm-cloud-functions.firebaseio.com",
+    "project_id": "fcm-cloud-functions",
+    "storage_bucket": "fcm-cloud-functions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85901306153:android:ba09af673b0f20c9",
+        "android_client_info": {
+          "package_name": "com.devlomi.firebasestorageexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85901306153-pdulb60egjtveqtt6oesj1q9focntdek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devlomi.firebasestorageexample",
+            "certificate_hash": "2709e5effb383a9b6c0c85981e599d3ec6de264a"
+          }
+        },
+        {
+          "client_id": "85901306153-9lv0kl1pocoj8d48s3t1cbelp93448j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSUjBmAGW7-jXy1D_zMsJBYHbS33qeF24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85901306153-9lv0kl1pocoj8d48s3t1cbelp93448j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85901306153:android:ceb4c193859ca283",
+        "android_client_info": {
+          "package_name": "com.devlomi.firebasegalleryexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85901306153-73lp8jtdsqrpm1kcbi1u3c67537ja91h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devlomi.firebasegalleryexample",
+            "certificate_hash": "2709e5effb383a9b6c0c85981e599d3ec6de264a"
+          }
+        },
+        {
+          "client_id": "85901306153-9lv0kl1pocoj8d48s3t1cbelp93448j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSUjBmAGW7-jXy1D_zMsJBYHbS33qeF24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85901306153-9lv0kl1pocoj8d48s3t1cbelp93448j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
